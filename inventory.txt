@@ -1,0 +1,9 @@
+Apples
+Oranges
+Bananas
+Pork
+Beef
+Fish
+Celery
+Tomato
+Spinach
